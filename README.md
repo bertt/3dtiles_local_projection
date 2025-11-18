@@ -16,3 +16,6 @@ Sample GLB: https://bertt.github.io/3dtiles_local_projection/lyon/0.2/1_1_0.glb
 
 https://bertt.github.io/3dtiles_local_projection/lyon/0.3_octree/tileset.json
 
+4] Utrecht buildings demo
+
+https://bertt.github.io/3dtiles_local_projection/utrecht/tileset.json
