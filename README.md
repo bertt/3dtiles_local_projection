@@ -19,3 +19,7 @@ https://bertt.github.io/3dtiles_local_projection/lyon/0.3_octree/tileset.json
 4] Utrecht buildings demo
 
 https://bertt.github.io/3dtiles_local_projection/utrecht/tileset.json
+
+5] Sibbe buildings demo
+
+https://bertt.github.io/3dtiles_local_projection/sibbe/tileset.json
