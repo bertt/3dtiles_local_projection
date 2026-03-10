@@ -23,3 +23,14 @@ https://bertt.github.io/3dtiles_local_projection/utrecht/tileset.json
 5] Sibbe buildings demo
 
 https://bertt.github.io/3dtiles_local_projection/sibbe/tileset.json
+
+6] Ubbergen buildings
+
+https://bertt.github.io/3dtiles_local_projection/ubbergen/buildings/tileset.json
+
+7] Ubbergen trees
+
+https://bertt.github.io/3dtiles_local_projection/ubbergen/trees/tileset.json
+
+
+
