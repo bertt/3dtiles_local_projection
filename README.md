@@ -36,6 +36,9 @@ https://bertt.github.io/3dtiles_local_projection/ubbergen/trees/tileset.json
 
 https://bertt.github.io/3dtiles_local_projection/ubbergen/benches/tileset.json
 
+9] Ubbergen traffic lights
+
+https://bertt.github.io/3dtiles_local_projection/ubbergen/traffic_lights/tileset.json
 
 
 
