@@ -32,5 +32,10 @@ https://bertt.github.io/3dtiles_local_projection/ubbergen/buildings/tileset.json
 
 https://bertt.github.io/3dtiles_local_projection/ubbergen/trees/tileset.json
 
+8] Ubbergen benches
+
+https://bertt.github.io/3dtiles_local_projection/ubbergen/benches/tileset.json
+
+
 
 
