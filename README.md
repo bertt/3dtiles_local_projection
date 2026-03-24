@@ -40,5 +40,10 @@ https://bertt.github.io/3dtiles_local_projection/ubbergen/benches/tileset.json
 
 https://bertt.github.io/3dtiles_local_projection/ubbergen/traffic_lights/tileset.json
 
+10] Ubbergen parked cars
+
+https://bertt.github.io/3dtiles_local_projection/ubbergen/parkedcars/tileset.json
+
+
 
 
